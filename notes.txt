@@ -1,0 +1,24 @@
+A JS front end framework for building apps and website
+
+provides tools to make websites and apps faster and more dynamic
+gives standards for code organization
+
+Virtual DOM framework - makes JS web applications faster and efficient
+
+progressive- can be used anywhere from small features on websites and large applications
+
+inmcementally adoptable easy to update legcay applications page by page to modernize
+
+
+shortcuts
+__________
+v-bind => ':'
+v-on => '@'
+v-model => helps to store input values to a known variable eg input form text to inputValue variable
+
+
+
+life cylcel hooks: why might you want to use them?
+-checking if user is authorized
+-using created and mounted for api calls
+-creating or cleaning up data before or after mounted or unMounted
